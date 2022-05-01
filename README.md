@@ -28,8 +28,8 @@ Crop the image using cropped_img=input_img[20:150,60:230]
 Display all the Transformed images and end the program.
 ## Program:
 ```python
-Developed By:DhaniReddy Amarnath Reddy
-Register Number:212221240012
+Developed By:Koduru Sanath Kumar Reddy
+Register Number:212221240024
 i)Image Translation
 import numpy as np
 import cv2
@@ -141,34 +141,34 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-![](out.png)
-![](tran.png)
+![](output.png)
+![](translated.png)
 
 
 ### ii) Image Scaling
-![](out.png)
+![](output.png)
 ![](scaled.png)
 
 ### iii)Image shearing
-![](out.png)
+![](output.png)
 ![](shearedx.png)
 ![](shearedy.png)
 
 ### iv)Image Reflection
-![](out.png)
-![](refx.png)
+![](output.png)
+![](refX.png)
 ![](refy.png)
 
 
 
 
 ### v)Image Rotation
-![](out.png)
+![](output.png)
 ![](rotated.png)
 
 
 ### vi)Image Cropping
-![](out.png)
+![](output.png)
 ![](cropped.png)
 
 
